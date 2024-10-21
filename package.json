@@ -1,0 +1,11 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "A medical records platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghav Pershad",
+  "license": "ISC"
+}
